@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "105688361573",
+    "firebase_url": "https://childmonitoringproject-316615-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "childmonitoringproject-316615",
+    "storage_bucket": "childmonitoringproject-316615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105688361573:android:2cabc9ceaa0b20c9ce748c",
+        "android_client_info": {
+          "package_name": "com.example.authapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105688361573-ogi4h0ektas61011uilfu6hpk02bdo44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfRwUOsWCxKN2xrPnWwRJpDy1TOLGEi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105688361573-ogi4h0ektas61011uilfu6hpk02bdo44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105688361573:android:2e45ac2ba8825441ce748c",
+        "android_client_info": {
+          "package_name": "com.example.childmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105688361573-ogi4h0ektas61011uilfu6hpk02bdo44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfRwUOsWCxKN2xrPnWwRJpDy1TOLGEi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105688361573-ogi4h0ektas61011uilfu6hpk02bdo44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105688361573:android:1d4d844d9ef76868ce748c",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105688361573-ogi4h0ektas61011uilfu6hpk02bdo44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfRwUOsWCxKN2xrPnWwRJpDy1TOLGEi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105688361573-ogi4h0ektas61011uilfu6hpk02bdo44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
